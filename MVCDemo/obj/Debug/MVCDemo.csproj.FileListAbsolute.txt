@@ -26,3 +26,31 @@ F:\QQPCmgr\Desktop\新建文件夹 (2)\MVCDemo\MVCDemo\bin\EntityFramework.SqlSe
 F:\QQPCmgr\Desktop\新建文件夹 (2)\MVCDemo\MVCDemo\bin\EntityFramework.xml
 F:\QQPCmgr\Desktop\新建文件夹 (2)\MVCDemo\MVCDemo\bin\EntityFramework.SqlServer.xml
 F:\QQPCmgr\Desktop\新建文件夹 (2)\MVCDemo\MVCDemo\obj\Debug\MVCDemo.csprojResolveAssemblyReference.cache
+H:\Git\MVCDemo\MVCDemo\bin\MVCDemo.dll.config
+H:\Git\MVCDemo\MVCDemo\bin\MVCDemo.dll
+H:\Git\MVCDemo\MVCDemo\bin\MVCDemo.pdb
+H:\Git\MVCDemo\MVCDemo\bin\EntityFramework.dll
+H:\Git\MVCDemo\MVCDemo\bin\EntityFramework.SqlServer.dll
+H:\Git\MVCDemo\MVCDemo\bin\System.Web.Helpers.dll
+H:\Git\MVCDemo\MVCDemo\bin\System.Web.Mvc.dll
+H:\Git\MVCDemo\MVCDemo\bin\System.Web.Razor.dll
+H:\Git\MVCDemo\MVCDemo\bin\System.Web.Webpages.Deployment.dll
+H:\Git\MVCDemo\MVCDemo\bin\System.Web.Webpages.dll
+H:\Git\MVCDemo\MVCDemo\bin\System.Web.Webpages.Razor.dll
+H:\Git\MVCDemo\MVCDemo\bin\EntityFramework.xml
+H:\Git\MVCDemo\MVCDemo\bin\EntityFramework.SqlServer.xml
+H:\Git\MVCDemo\MVCDemo\bin\System.Web.Razor.xml
+H:\Git\MVCDemo\MVCDemo\bin\System.Web.Webpages.xml
+H:\Git\MVCDemo\MVCDemo\bin\System.Web.Webpages.Deployment.xml
+H:\Git\MVCDemo\MVCDemo\bin\System.Web.Webpages.Razor.xml
+H:\Git\MVCDemo\MVCDemo\bin\System.Web.Helpers.xml
+H:\Git\MVCDemo\MVCDemo\bin\System.Web.Mvc.xml
+H:\Git\MVCDemo\MVCDemo\bin\zh-Hans\System.Web.Razor.resources.dll
+H:\Git\MVCDemo\MVCDemo\bin\zh-Hans\System.Web.Webpages.resources.dll
+H:\Git\MVCDemo\MVCDemo\bin\zh-Hans\System.Web.Webpages.Deployment.resources.dll
+H:\Git\MVCDemo\MVCDemo\bin\zh-Hans\System.Web.Webpages.Razor.resources.dll
+H:\Git\MVCDemo\MVCDemo\bin\zh-Hans\System.Web.Helpers.resources.dll
+H:\Git\MVCDemo\MVCDemo\bin\zh-Hans\System.Web.Mvc.resources.dll
+H:\Git\MVCDemo\MVCDemo\obj\Debug\MVCDemo.csprojResolveAssemblyReference.cache
+H:\Git\MVCDemo\MVCDemo\obj\Debug\MVCDemo.dll
+H:\Git\MVCDemo\MVCDemo\obj\Debug\MVCDemo.pdb
